@@ -34,7 +34,7 @@ This repository demonstrates the architecture of a systematic cryptocurrency tra
 ## ⚠️ Proprietary Signal Engine
 
 > The public repository contains a **demo signal engine** for architecture demonstration only.
-> The production **TRVM × Strict Scoring** engine (10-filter dual-confirmation system) is available for review **under NDA during interviews**.
+> The production **TRVM × Strict Scoring** engine is available for review **under NDA during interviews**.
 
 ## Architecture
 
